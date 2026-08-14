@@ -20,7 +20,7 @@ Leveling up my backend skills, and automating anything that dares to be repetiti
 
 ---
 
-<sub>`0x414341` says relax. Code is a commons — I just keep finding it behind paywalls.</sub>
+<sub>`0x414341` says relax. Code is a commons, I just keep finding it behind paywalls.</sub>
 
 <!---
 LadonAl/LadonAl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
