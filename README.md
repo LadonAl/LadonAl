@@ -18,7 +18,6 @@ Live builds, each on its own domain.
 
 | Build | What it is | Made with |
 |---|---|---|
-| [no8ta](https://no8ta-pos.com) | Our product. Website in Arabic and English. | three.js, TypeScript |
 | [Mortar & Kettle](https://www.mortarandkettle.com) | My own corner of the web: food science and home cooking, as a content library in Arabic and English. | Next.js, next-intl, Tailwind CSS |
 | [Trashy T-Shirts](https://www.trashytshirts.com) | Concept storefront with an image pipeline. | Next.js, shadcn/ui, fal.ai |
 | [Arsu Tours](https://arsu.tours) | Concept travel site covering ten regions. | Next.js, TypeScript, Tailwind CSS |
